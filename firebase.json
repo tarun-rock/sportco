@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sportco-22bb7",
+  "private_key_id": "6da504b16bb8ce76f5d3fa073f1b40357da00f98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCXXlJzXNCXxtFX\ncrvYr96M0bEC3E8oLPfAiHHa5xs4/wFJA2P7pm9wmBwgh97FbJdQAqMprP+5yq+S\n7NmNihUUcC4d0sCXLASwfSqDNahIzmPRy1APS1W0pCztSyglw4t4uDtw/q7/jpPk\nHNcu+R6W9IgQ1YVgphvRiArsul3jQo+EncyPvFsFc3NSzfTcqnCiiHBe67m7l1aQ\n6N1L0Z2dht29rcT/sHK5pAnbbO0bPQ6TAyf3U2sDi1NwmbIMbJqiCZi7yI0irRez\nVf/Fd1HAIU2Plcah/FKH6rvsiA6bW48HbKc2WEi3PPely7WChdTJlfOj37H6yb30\nAGqW9pcFAgMBAAECggEABHhpJ/YMRQc+pH4DdTVQdck1mJeIEPAvCvUco7HimG7T\ni2P5vnNeZC1h20YX+q2n1FmXlwIAdWy6fbTYAfmbgMSFYCUawfwvUUUJDeH2S9wo\nj4gZH7KCX/jfSMzI7UCWrGSIgOBMq8h6rqh5ZG5ADIZBRHoB2+Zb+PazF+WzIySG\n9GbaHMyuvRpAL6Otz0RV1w98XhTlVDA/EfP1mPomAX9rL2TNRy3T7H0cJXEFUZvT\nKqU/pqP1H43oqEZAID72hsi1TBepm50v1k7wGtmAxg9zGNTmiAnvgygiYxJH9gTD\nYEYdHnOpsKQdyKbjVxb0YUxbiuwZ61/1fFUqf3lQ0QKBgQDNKIiMAG9hc73ChLnu\n87ELgTTlWDXd7jyJrSZ42tMWKmqMM0Km+4HyIuRo5pT6AkMI8tTpS+mwxCbMkCYC\nShKy25fDVPL963ZDO/t87NA+jIYN23ukVNWMlkMJQmHBjmCxe8dgm21iInPjm2Cd\n+PkEeRM9LlV8TEYgexHcCn3JvQKBgQC84UzNRTFkd9psG4mdKbLzEJ4mfta9Cg38\naaygw0wJ+fcgsYEu0QwIlQZOjFTn+Fqr9B1GjdZZS599Q2YTjdR6wXQjM0GHHGQ0\nGEjMi9uzTPjOUJKUdF9gSSEcpfYFDwAalMX1pmMtb3IwkxeROX2Kgs5jwZLT8MuW\nBuYdPqiC6QKBgQCnVviJuZEgHBgcIcbHcV5n0+whZeIKM9iNM/69dT/YRKDD2svz\nCBLmPi+woOPDSTUEh43C/XiQBm7fTHS0SVcXLKaNXS0WkIjWLobjTwZM/rIZe31O\nfSPymF31n3+9MTUNj7kAw8Zk1VVRwdr8/6eeTmOy86gmytAojjnzEVuowQKBgQC4\nzslS36zgXNT+ikMv36kUYuIbUGfUN45PtyYNdolkCYxgFM4NfMWFcCrnmC9LeZle\nPlCWxBlC7ddzvQqXf2Kzaa2082XeSU1SG6C/Yujomxum4vdJAkR/9Y3MdiYt9Otp\nFsBLBy5rOmxEUufwVIwdhrdiq/h6H1VTyhRF8RT4YQKBgQDDKd+dqKGVDXb4plvI\ngiSPn/ZEJiT9ib8tuTo7AZnKr27wKxlEW81npaHBj8rtbjpW9vPVat8JGU5f6yon\npBKgGpjBIzQBHPLeIkOMG3CS+NOql9bCeB0FLqMMUYp9UEjXlDlxo8rCmNe+m3aN\nY1sT9N39a1HgROnf29F7IkOXAQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gn531@sportco-22bb7.iam.gserviceaccount.com",
+  "client_id": "113704689650807487303",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gn531%40sportco-22bb7.iam.gserviceaccount.com"
+}

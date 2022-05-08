@@ -1,0 +1,63 @@
+   
+.img-container,
+.img-preview {
+  background-color: #f7f7f7;
+  text-align: center;
+  width: 100%;
+}
+
+.img-container {
+  margin-bottom: 1rem;
+  max-height: 497px;
+  min-height: 200px;
+}
+
+@media (min-width: 768px) {
+  .img-container {
+    min-height: 497px;
+  }
+}
+
+.img-container > img {
+  max-width: 100%;
+}
+
+
+.img-preview {
+  float: left;
+
+  overflow: hidden;
+  background:#fff;
+  background-image: url(../images/image-icon.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% 100%;
+
+}
+
+.img-preview > img {
+  max-width: 100%;
+}
+
+.preview-lg {
+  height: 10rem;
+  width: 100%;
+  position: relative;
+}
+
+.preview-md {
+  height: 4.5rem;
+  width: 8rem;
+}
+
+.preview-sm {
+  height: 2.25rem;
+  width: 4rem;
+}
+
+.preview-xs {
+  height: 1.125rem;
+  margin-right: 0;
+  width: 2rem;
+}
+   

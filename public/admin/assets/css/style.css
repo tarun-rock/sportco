@@ -1,0 +1,58 @@
+/** Override Pages default styles or create your own styles here **/
+.doubleFld {
+    padding: 0 6px;
+}
+.mainForm > div {
+    margin-bottom: 35px;
+}
+.mainForm .doubleFld .form-group {
+    margin-bottom: 0;
+}
+.mainForm .doubleFld span.required,.mainForm .form-group span.required {
+    color: #f35958;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2px;
+    font-family: arial;
+}
+form .row .moreOptions [class*='col-']:first-child {
+    padding-left: 7px;
+}
+.moreOptions div[class*="col-"] {
+    display: inline-block;
+}
+.moreOptions .trashBtn .fa-trash {
+    color: #ff0000;
+    font-size: 16px;
+}
+.moreOptions .trashBtn {
+    cursor: pointer;
+
+}
+.optionOuter {
+    margin-bottom: 10px;
+}
+.optionOuter span {
+    width: 29%;
+    position: relative;
+}
+.optionOuter span > samp {
+    position: absolute;
+    left: 0;
+    top: 17px;
+    right: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 9px;
+}
+.optionOuter p, .optionOuter span {
+    display: inline-block;
+    vertical-align: middle;
+}
+.optionOuter p {
+    width: 70%;
+}
+.optionOuter span {
+    width: 29%;
+}

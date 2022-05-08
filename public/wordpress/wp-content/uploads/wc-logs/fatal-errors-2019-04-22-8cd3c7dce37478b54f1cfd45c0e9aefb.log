@@ -1,0 +1,54 @@
+2019-04-22T09:35:42+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php:159
+Stack trace:
+#0 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(946): WC_REST_Cart_Controller->get_cart(Object(WP_REST_Request))
+#1 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api.php(309): WP_REST_Server->serve_request('/wc/v2/cart')
+#3 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/plugin. in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php on line 159
+
+2019-04-22T09:35:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php:159
+Stack trace:
+#0 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(946): WC_REST_Cart_Controller->get_cart(Object(WP_REST_Request))
+#1 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api.php(309): WP_REST_Server->serve_request('/wc/v2/cart')
+#3 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/plugin. in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php on line 159
+
+2019-04-22T09:54:40+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php:159
+Stack trace:
+#0 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(946): WC_REST_Cart_Controller->get_cart(Object(WP_REST_Request))
+#1 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api.php(309): WP_REST_Server->serve_request('/wc/v2/cart')
+#3 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/plugin. in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php on line 159
+
+2019-04-22T09:55:50+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php:159
+Stack trace:
+#0 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(946): WC_REST_Cart_Controller->get_cart(Object(WP_REST_Request))
+#1 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api.php(309): WP_REST_Server->serve_request('/wc/v2/cart')
+#3 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/plugin. in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php on line 159
+
+2019-04-22T11:22:46+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php:159
+Stack trace:
+#0 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(946): WC_REST_Cart_Controller->get_cart(Object(WP_REST_Request))
+#1 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api.php(309): WP_REST_Server->serve_request('/wc/v2/cart')
+#3 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/plugin. in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php on line 159
+
+2019-04-22T11:23:21+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php:159
+Stack trace:
+#0 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(946): WC_REST_Cart_Controller->get_cart(Object(WP_REST_Request))
+#1 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api/class-wp-rest-server.php(329): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#2 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/rest-api.php(309): WP_REST_Server->serve_request('/wc/v2/cart')
+#3 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(286): rest_api_loaded(Object(WP))
+#4 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#5 /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-includes/plugin. in /opt/lampp/htdocs/web_sportco_publish/public/wordpress/wp-content/plugins/cart-rest-api-for-woocommerce/includes/api/class-wc-rest-cart-controller.php on line 159
+

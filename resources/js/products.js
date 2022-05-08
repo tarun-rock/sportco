@@ -1,0 +1,1 @@
+window.xzoom = require("xzoom")

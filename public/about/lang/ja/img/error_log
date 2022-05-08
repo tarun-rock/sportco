@@ -1,0 +1,12 @@
+[09-May-2018 15:18:24 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/anujsey/public_html/img/index.php on line 98
+[09-May-2018 15:18:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/anujsey/public_html/img/index.php on line 98
+[09-May-2018 15:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function siteurl() in /home/anujsey/public_html/img/index.php:670
+Stack trace:
+#0 {main}
+  thrown in /home/anujsey/public_html/img/index.php on line 670
+[10-May-2018 13:18:25 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/anujsey/public_html/img/index.php on line 98
+[10-May-2018 13:18:25 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/anujsey/public_html/img/index.php on line 98
+[10-May-2018 13:18:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function siteurl() in /home/anujsey/public_html/img/index.php:670
+Stack trace:
+#0 {main}
+  thrown in /home/anujsey/public_html/img/index.php on line 670
